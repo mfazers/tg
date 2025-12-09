@@ -1,0 +1,10 @@
+aiogram==3.4.1
+tesseract
+pytesseract
+opencv-python
+Pillow
+pandas
+openpyxl
+APScheduler
+SQLAlchemy
+python-dotenv
